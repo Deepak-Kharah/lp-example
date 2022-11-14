@@ -1,0 +1,1 @@
+# Live preview Cookie support

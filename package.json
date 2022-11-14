@@ -1,0 +1,15 @@
+{
+    "name": "npx-test-0987",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "bin": {
+        "index": "./bin/index.js"
+    },
+    "keywords": [],
+    "author": "Deepak Kharah",
+    "license": "MIT"
+}
